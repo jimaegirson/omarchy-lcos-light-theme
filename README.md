@@ -9,7 +9,7 @@ The classic 1990s-style LCOS desktop: Xfce grey panels, white windows, cream edi
 Copy, paste, done:
 
 ```bash
-omarchy-theme-install https://github.com/jimaegirson/omarchy-theme-LCOS)
+omarchy-theme-install https://github.com/jimaegirson/omarchy-theme-LCOS
 ```
 
 Or from the Omarchy menu: `Super + Alt + Space` > Install > Style > Theme, then paste the repo URL.
