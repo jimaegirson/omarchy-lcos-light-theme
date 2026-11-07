@@ -1,0 +1,27 @@
+# LCOS Light — Lunduke Computer Operating System (light variant)
+# Sampled from real LCOS screenshots: Xfce grey panel, white windows,
+# 90s title-bar blue, cream editor paper. Navy wallpaper stays navy, like the real thing.
+
+accent = "#5f8ccb"
+cursor = "#3359d9"
+foreground = "#1a1a1a"
+background = "#edeceb"
+selection_foreground = "#1a1a1a"
+selection_background = "#a5c2e7"
+
+color0  = "#1a1a1a"
+color1  = "#a01423"
+color2  = "#1d7a32"
+color3  = "#8a6a2e"
+color4  = "#3359d9"
+color5  = "#6b3fa0"
+color6  = "#1d7f9f"
+color7  = "#8a8a8a"
+color8  = "#5c5c5c"
+color9  = "#c8283a"
+color10 = "#2f9e44"
+color11 = "#ae8f5e"
+color12 = "#2f6fe0"
+color13 = "#8a5cc0"
+color14 = "#2a9fc0"
+color15 = "#f7f4e8"
